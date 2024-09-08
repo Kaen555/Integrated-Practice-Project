@@ -28,5 +28,5 @@ Failure to follow the team contract will result in a three-step warning system:
 
 
 ### Navraj Singh
-### Polina
+### Polina Kniazeva
 ### Jatin Sethi
