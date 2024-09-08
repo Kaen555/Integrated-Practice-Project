@@ -34,6 +34,9 @@ Group members who do not follow or enforce the Code of Conduct in good faith may
 This Code of Conduct is adapted from the [Contributor Covenant homepage](http://contributor-covenant.org/version/1/4), version 1.4.
 
 
-## Navraj Singh                                       ## Polina	Kniazeva                                        ## Jatin Sethi
+
+### Navraj Singh                                       
+### Polina Kniazeva                                        
+### Jatin Sethi
 
 
